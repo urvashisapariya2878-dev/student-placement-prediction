@@ -37,11 +37,16 @@ Student Placement Prediction System
 Urvashi sapariya
 vishva miyani
 
-##team member
+## team member
 511.533
 
 ## Future Improvements
 - Improve prediction accuracy.
 - Add a user-friendly web interface.
 - Develop a desktop application.
+
+## Key Benefits
+- Helps predict student placement.
+- Uses academic and skill-related data.
+- Supports data-driven placement analysis.
 
