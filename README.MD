@@ -35,9 +35,10 @@ Student Placement Prediction System
 
 ## Author
 Urvashi sapariya
+vishva miyani
 
 ##team member
-533
+511.533
 
 ## Future Improvements
 - Improve prediction accuracy.
