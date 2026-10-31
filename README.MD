@@ -38,3 +38,9 @@ Urvashi sapariya
 
 ##team member
 533
+
+## Future Improvements
+- Improve prediction accuracy.
+- Add a user-friendly web interface.
+- Develop a desktop application.
+
